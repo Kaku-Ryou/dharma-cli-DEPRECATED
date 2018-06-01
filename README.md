@@ -1,3 +1,5 @@
+> NOTE: This repository relies on a **deprecated** set of smart contracts used in Dharma protocol -- the most current set of smart contracts in the Dharma protocol are at https://github.com/dharmaprotocol/charta.  This repository is kept public for historical purposes, but we don't recommend using the tool for any serious production use case. 
+
 <p align="center">
   <img height='150px' src="https://s3-us-west-2.amazonaws.com/dharma-cli-gifs/DharmaGold.png" />
 </p>
